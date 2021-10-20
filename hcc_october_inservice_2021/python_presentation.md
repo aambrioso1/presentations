@@ -23,6 +23,10 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 
 ### The Future of Technology
 
+* Machine learning
+* Robotics
+* Natural Language Processing
+
 ### Book Raffle:  [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 Use: random_number_generator.py
 
@@ -47,13 +51,13 @@ Play to 1:43
 
 [Guido van Rossum - Python Inventor](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
+[Talk Python To Me](https://talkpython.fm/episodes/all)
+
 [Rivers Cuomo in Wikipedia](https://en.wikipedia.org/wiki/Rivers_Cuomo)
 Python.org
 https://www.python.org/
 
-[Talk Python To Me](https://talkpython.fm/episodes/all)
-
-{Weezer on Talk Python to Me](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+[Rivers Cuomo on Talk Python to Me](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
 
 [Natural Language Toolkit Book](https://www.nltk.org/book/)
 
@@ -61,7 +65,7 @@ https://www.python.org/
 
 [Jupyter Notebooks from Anaconda](https://www.anaconda.com/)
 
-[Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+[Transformers](https://en.wikipedia.org/wiki/Transformer_machine_learning_model)
 
 
 [Word Embeddings](https://en.wikipedia.org/wiki/Word_embedding)
