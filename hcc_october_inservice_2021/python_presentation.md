@@ -62,4 +62,7 @@ https://en.wikipedia.org/wiki/Zipf%27s_law
 * [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [A Student's Guide to Python for Physical Modeling](https://www.amazon.com/Students-Guide-Python-Physical-Modeling-dp-0691223653/dp/0691223653/)
+* [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
+* [Classic Computer Science Problems in Python](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/B07WC5185D)
+* [Introduction to Machine Learning](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 * [Alex's Python Book](https://www.alexambrioso.com/index)
