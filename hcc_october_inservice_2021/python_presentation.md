@@ -13,11 +13,11 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 ** Leverage the global stock of open source effort
 ** If you really want to learn something write code for it.
 
-### Some coding ideas for Educators
-* Math and Science:  Numerical Analysis (Signorini)
-* File management and web-scraping:  
+### Some coding ideas for educators
+* Math and Science - Numerical Analysis (Signorini)
+* General knowledge - File management and web-scraping  
 * Science - NOAA Data 
-* Language/Linguistics (Zipf's Law)
+* Language/Linguistics/Statistics (Zipf's Law)
 * English/Humanities: (Natural Language Toolkit) 
 * Music - Mingus Library
 
