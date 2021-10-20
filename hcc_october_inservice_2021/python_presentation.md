@@ -17,9 +17,9 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 * Math and Science - Numerical Analysis (Signorini)
 * General knowledge - File management and web-scraping  
 * Science - NOAA Data 
-* Language/Linguistics/Statistics (Zipf's Law)
-* English/Humanities: (Natural Language Toolkit) 
-* Music - Mingus Library
+* Language/Linguistics/Statistics - Zipf's Law
+* English/Humanities - (Natural Language Toolkit) 
+* Music - mingus Library
 
 ### III.  The future of technology
 
@@ -55,6 +55,7 @@ https://en.wikipedia.org/wiki/Zipf%27s_law
 * [Nice Video on Zipf's Law](https://youtu.be/fCn8zs912OE)
 * [My Website](https://www.alexambrioso.com/)
 * [mingus - a music package for Python](https://bspaans.github.io/python-mingus/)
+* [Charles Mingus](https://en.wikipedia.org/wiki/Charles_Mingus)
 
 ### Books on Python
 
