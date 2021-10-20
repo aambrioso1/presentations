@@ -32,8 +32,8 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 ### Links for introduction
 What do the the Rock Band, Weezer, foodborne illnesses, and Rembrandt's "The Night Watch", all have in common?
 
-* [Discovering foodborne illnesses in online restaurant reviews](https://academic.oup.com/jamia/article/25/12/1586/4725036)
 * [Rivers Cuomo the lead vocalist for Weezer on Talk Python](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+* [Discovering foodborne illnesses in online restaurant reviews](https://academic.oup.com/jamia/article/25/12/1586/4725036)
 * [Robert Erdman's Keynote Speech at Python 2021](https://www.youtube.com/watch?v=z_hm5oX7ZlE&list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
 (Play to 1:43)
 * [Most Detailed Photograph of the Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/photograph-night-watch)
@@ -54,6 +54,7 @@ What do the the Rock Band, Weezer, foodborne illnesses, and Rembrandt's "The Nig
 https://en.wikipedia.org/wiki/Zipf%27s_law
 * [Nice Video on Zipf's Law](https://youtu.be/fCn8zs912OE)
 * [My Website](https://www.alexambrioso.com/)
+* [mingus - a music package for Python](https://bspaans.github.io/python-mingus/)
 
 ### Books on Python
 
