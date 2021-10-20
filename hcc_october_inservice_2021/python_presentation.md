@@ -1,4 +1,4 @@
-# October Inservice 2021 Presentation
+# Inservice Presentation (Ambrioso October 2021)
 
 ### Abstract
 
@@ -11,7 +11,7 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 * Advantages of Programming
     * Absolute control of technology.  
     * Leverage the global stock of open source effort. 
-    * If you really want to learn something write code for it.
+    * If you really want to learn something, write code for it.
 
 ### Some coding ideas for educators
 * Math and Science - Numerical Analysis (Signorini)
@@ -21,16 +21,15 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 * English/Humanities: (Natural Language Toolkit) 
 * Music - Mingus Library
 
-### The Future of Technology
+### The future of technology
 
 * Machine learning
 * Robotics
 * Natural Language Processing
 
-### Book Raffle:  [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-Use: random_number_generator.py
+### Book Raffle:  [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Use: random_number_generator.py)
 
-### Links for Introduction
+### Links for introduction
 What do the the Rock Band, Weezer, foodborne illnesses, and Rembrandt's "The Night Watch", all have in common?
 
 * [Discovering foodborne illnesses in online restaurant reviews](https://academic.oup.com/jamia/article/25/12/1586/4725036)
