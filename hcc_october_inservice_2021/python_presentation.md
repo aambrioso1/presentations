@@ -9,9 +9,10 @@ As part of my sabbatical leave application I proposed to "prepare a presentation
 * Advanced use of Python in various disciplines
 
 * Advantages of Programming
-** Absolute control of technology
-** Leverage the global stock of open source effort
-** If you really want to learn something write code for it.
+
+ Absolute control of technology
+ Leverage the global stock of open source effort
+ If you really want to learn something write code for it
 
 ### Some coding ideas for educators
 * Math and Science - Numerical Analysis (Signorini)
