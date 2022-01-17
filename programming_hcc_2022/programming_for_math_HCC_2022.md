@@ -23,9 +23,9 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 
 ### Language basics
 * print
-* data types including f strings
-* Conditionals
-* Loops
+* data types including f-strings
+* conditionals
+* loops
 * functions
 
 * import
@@ -47,7 +47,7 @@ Apply to the formula to the computation of Pi using an integral
 
 ### Useful links and reference
 
-* Presentation Notes (https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
+* [Presentation Notes](https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
 * [Effective Python](https://effectivepython.com/)
 * [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
@@ -56,7 +56,7 @@ Apply to the formula to the computation of Pi using an integral
 * [Classic Computer Science Problems in Python](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/B07WC5185D)
 * [Introduction to Machine Learning](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 * [Alex's Python Book](https://www.alexambrioso.com/index)
-* [CodeWars] (https://www.codewars.com/)
+* [CodeWars](https://www.codewars.com/)
 * [Python Package Index](https://pypi.org/)
 * [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
