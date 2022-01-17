@@ -15,22 +15,23 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 ### Introduction to Python
 * Description
 * Some ways to run a Python program
-** Install Python on your system from Python.org and use a text editor
-** Install Anaconda
-** Open an account with PythonAnywhere.com
-** Install the PyCharm IDE
-** Install Visual Studio Code and the Python extension
+    * Install Python on your system from Python.org and use a text editor
+    * Install Anaconda
+    * Open an account with PythonAnywhere.com
+    * Install the PyCharm IDE
+    * Install Visual Studio Code and the Python extension
 
 ### Language basics
 * print
 * data types including f-strings
+* exponentiation
 * conditionals
 * loops
 * functions
 
 * import
-** Standard Libraries
-** third party libraries
+    * Standard Libraries
+    * third party libraries
 
 ### The Average Value Function
 Derive formula for computing the integral based on the average value functions
@@ -38,10 +39,7 @@ Apply to the formula to the computation of Pi using an integral
 
 ### 2D and 3D plots, parametric equtions, tangent lines, and animations
 
-
 ### Matrices, Vectors, and Rotations
-
-
 
 ### Partial Derivatives and Neural Networks
 
