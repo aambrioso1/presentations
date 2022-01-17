@@ -1,9 +1,9 @@
 # Programming for Mathematics Teachers
 
-### Description
+#### Description
 The ability to write code is a powerful tool.   This skill deserves some attention from teachers in general and mathematics teachers in particular.   Python is a good language for this purpose.   It is both easy to learn and widely used in all fields of study.  In my presentation, I will first show the rudiments of programming in Python.   Then I will present code examples with nice connections to our Calculus curriculum:  
 
-##### Topics
+#### Topics
 * Introduction to Python
 * The average value function and Pi (MAC 2311)
 * Graphs of tangent lines and parametric equations (MAC 2312) 
@@ -12,7 +12,7 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 * functions of several variables, partial derivatives, and gradients for a Neural Network (MAC 2313)
 
 
-### Introduction to Python
+#### Introduction to Python
 * Description
 * Some ways to run a Python program
     * Install Python on your system from Python.org and use a text editor
@@ -21,7 +21,7 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
     * Install the PyCharm IDE
     * Install Visual Studio Code and the Python extension
 
-### Language basics
+#### Language Basics
 * print
 * data types including f-strings
 * exponentiation
@@ -33,17 +33,17 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
     * Standard Libraries
     * third party libraries
 
-### The Average Value Function
+#### The Average Value Function
 Derive formula for computing the integral based on the average value functions
 Apply to the formula to the computation of Pi using an integral
 
-### 2D and 3D plots, parametric equtions, tangent lines, and animations
+#### 2D and 3D plots, parametric equtions, tangent lines, and animations
 
-### Matrices, Vectors, and Rotations
+#### Matrices, Vectors, and Rotations
 
-### Partial Derivatives and Neural Networks
+#### Partial Derivatives and Neural Networks
 
-### Useful links and reference
+#### Useful links and reference
 
 * [Presentation Notes](https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
 * [Effective Python](https://effectivepython.com/)
