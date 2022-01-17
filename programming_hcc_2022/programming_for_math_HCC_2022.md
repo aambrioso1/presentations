@@ -13,13 +13,13 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 
 
 ### Introduction to Python
-(a) Description
-(b) Some ways to run a Python program
-(i) Install Python on your system from Python.org and use a text editor
-(ii) Install Anaconda
-(iii) Open an account with PythonAnywhere.com
-(iv)  Install the PyCharm IDE
-(v)  Install Visual Studio Code and the Python extension
+* Description
+* Some ways to run a Python program
+** Install Python on your system from Python.org and use a text editor
+** Install Anaconda
+** Open an account with PythonAnywhere.com
+** Install the PyCharm IDE
+** Install Visual Studio Code and the Python extension
 
 ### Language basics
 * print
