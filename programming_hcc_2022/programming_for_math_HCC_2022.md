@@ -28,7 +28,6 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 * conditionals
 * loops
 * functions
-
 * import
     * Standard Libraries
     * third party libraries
