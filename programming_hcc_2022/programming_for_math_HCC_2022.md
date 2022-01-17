@@ -47,6 +47,7 @@ Apply to the formula to the computation of Pi using an integral
 
 ### Useful links and reference
 
+* Presentation Notes (https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
 * [Effective Python](https://effectivepython.com/)
 * [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
