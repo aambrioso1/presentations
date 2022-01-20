@@ -1,5 +1,3 @@
-[Python Logo](presentations/programming_hcc_2022/img/logo.png "Python Logo")
-
 # Programming for Mathematics Teachers
 
 #### Description
@@ -8,10 +6,10 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 Goals
 *  Advocate for the importance of open source resources to society.
 *  Show that coding can be a useful tool for a mathematics teacher.
-*  Give at least one example a teacher who can code could use in a Calculus class.
-*  Advocate for the for the importance of coding to society
+*  Give at least one example a teacher could use in a Calculus class with minimal effort.
+*  Advocate for the importance teachers advocating for the importance of coding to society.
 *  Give teachers some knowledge of Python they can share with students.
-*  Give teachers some modern examples of how mathematics (vectors and calculus) are used (specifically for machine learning) 
+*  Give teachers some modern examples of how mathematics (vectors and calculus) are used (specifically for machine learning).
 
 #### Topics
 * Introduction to Python
@@ -55,8 +53,6 @@ Apply to the formula to the computation of Pi using an integral
 #### Useful links and reference
 
 * [Presentation Notes](https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
-* [Effective Python](https://effectivepython.com/)
-* [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [A Student's Guide to Python for Physical Modeling](https://www.amazon.com/Students-Guide-Python-Physical-Modeling-dp-0691223653/dp/0691223653/)
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
@@ -67,6 +63,8 @@ Apply to the formula to the computation of Pi using an integral
 * [Python Package Index](https://pypi.org/)
 * [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 * [Example programs](https://github.com/aambrioso1/HCC-Programming-Project)
+* [Effective Python](https://effectivepython.com/)
+* [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 
 
 
