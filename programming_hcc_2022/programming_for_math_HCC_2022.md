@@ -54,7 +54,7 @@ Apply to the formula to the computation of Pi using an integral
 * [Compute Pi using the average value function](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/pi_and_average_value_function.py)
 * [Transformation of points using matrix multiplication](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/Matrix%20Transformations.ipynb) (Jupyter Notebook)
 * [An animation](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line_segments.py) and its output [video download](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line.mp4)
-* [3D plot using matplotlib](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/3D.py) and its output [3D image](HCC-Programming-Project/3_D Plot.png)
+* [3D plot using matplotlib](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/3D.py) and its output [3D image](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/3_D%20Plot.png)
 * [A simple neural network illustrating gradient descent](https://github.com/aambrioso1/presentations/blob/master/programming_hcc_2022/simple_nn.py)
 
 #### Useful links and reference
