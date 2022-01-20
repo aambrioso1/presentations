@@ -1,4 +1,4 @@
-![Python Logo](/img/logo.png "Python Logo")
+![Python Logo](presentations/programming_hcc_2022/img/ "Python Logo")
 
 # Programming for Mathematics Teachers
 
