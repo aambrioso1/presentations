@@ -50,6 +50,13 @@ Apply to the formula to the computation of Pi using an integral
 
 #### Partial Derivatives and Neural Networks
 
+#### Some example programs
+* [Compute Pi using the average value function](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/pi_and_average_value_function.py)
+* Transformation of points using matrix multiplication
+* [An animation](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line_segments.py)  [video download](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line.mp4)
+* [3D plots using matplotlib](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/3D.py)
+* [A simple neural network illustrating gradient descent](https://github.com/aambrioso1/presentations/blob/master/programming_hcc_2022/simple_nn.py)
+
 #### Useful links and reference
 
 * [Presentation Notes](https://github.com/aambrioso1/presentations/tree/master/programming_hcc_2022)
@@ -65,7 +72,10 @@ Apply to the formula to the computation of Pi using an integral
 * [Example programs](https://github.com/aambrioso1/HCC-Programming-Project)
 * [Effective Python](https://effectivepython.com/)
 * [Flask for Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
-
+* [Matplotlib](https://matplotlib.org/stable/gallery/index)
+* [Sage](https://www.sagemath.org/index.html)
+* [Numpy](https://numpy.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 
