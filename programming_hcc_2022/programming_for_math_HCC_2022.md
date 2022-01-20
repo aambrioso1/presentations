@@ -1,7 +1,17 @@
+![Python Logo](/img/logo.png "Python Logo")
+
 # Programming for Mathematics Teachers
 
 #### Description
 The ability to write code is a powerful tool.   This skill deserves some attention from teachers in general and mathematics teachers in particular.   Python is a good language for this purpose.   It is both easy to learn and widely used in all fields of study.  In my presentation, I will first show the rudiments of programming in Python.   Then I will present code examples with nice connections to our Calculus curriculum:  
+
+Goals
+*  Advocate for the importance of open source resources to society.
+*  Show that coding can be a useful tool for a mathematics teacher.
+*  Give at least one example a teacher who can code could use in a Calculus class.
+*  Advocate for the for the importance of coding to society
+*  Give teachers some knowledge of Python they can share with students.
+*  Give teachers some modern examples of how mathematics (vectors and calculus) are used (specifically for machine learning) 
 
 #### Topics
 * Introduction to Python
@@ -29,14 +39,14 @@ The ability to write code is a powerful tool.   This skill deserves some attenti
 * loops
 * functions
 * import
-    * Standard Libraries
+    * standard libraries
     * third party libraries
 
 #### The Average Value Function
 Derive formula for computing the integral based on the average value functions
 Apply to the formula to the computation of Pi using an integral
 
-#### 2D and 3D plots, parametric equtions, tangent lines, and animations
+#### 2D and 3D plots, parametric equations, tangent lines, and animations
 
 #### Matrices, Vectors, and Rotations
 
@@ -56,6 +66,7 @@ Apply to the formula to the computation of Pi using an integral
 * [CodeWars](https://www.codewars.com/)
 * [Python Package Index](https://pypi.org/)
 * [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+* [Example programs](https://github.com/aambrioso1/HCC-Programming-Project)
 
 
 
