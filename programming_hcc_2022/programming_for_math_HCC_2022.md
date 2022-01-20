@@ -52,7 +52,7 @@ Apply to the formula to the computation of Pi using an integral
 
 #### Some example programs
 * [Compute Pi using the average value function](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/pi_and_average_value_function.py)
-* Transformation of points using matrix multiplication
+* [Transformation of points using matrix multiplication](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/Matrix%20Transformations.ipynb) (Jupyter Notebook)
 * [An animation](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line_segments.py)  [video download](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/rotating_line.mp4)
 * [3D plots using matplotlib](https://github.com/aambrioso1/HCC-Programming-Project/blob/master/3D.py)
 * [A simple neural network illustrating gradient descent](https://github.com/aambrioso1/presentations/blob/master/programming_hcc_2022/simple_nn.py)
