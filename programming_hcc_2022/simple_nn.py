@@ -54,7 +54,7 @@ m, b = optimize(train_x, train_y, num, alpha)
 print(f"m = {m} and b = {b}")
 
 import matplotlib.pyplot as plt
-plt.plot(train_x, train_y)
+plt.scatter(train_x, train_y)
 x_list = []
 y_list = []
 for x in np.arange(0,10,0.1):
