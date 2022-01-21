@@ -4,10 +4,10 @@
 The ability to write code is a powerful tool.   This skill deserves some attention from teachers in general and mathematics teachers in particular.   Python is a good language for this purpose.   It is both easy to learn and widely used in all fields of study.  In my presentation, I will first show the rudiments of programming in Python.   Then I will present code examples with nice connections to our Calculus curriculum:  
 
 Goals
-*  Advocate for the importance of open source resources to society.
+*  Increase the awareness of the importance of open source resources to society.
+*  Advocate for the importance of teachers increasing the awareness of the importance of coding to society.
 *  Show that coding can be a useful tool for a mathematics teacher.
 *  Give at least one example a teacher could use in a Calculus class with minimal effort.
-*  Advocate for the importance teachers advocating for the importance of coding to society.
 *  Give teachers some knowledge of Python they can share with students.
 *  Give teachers some modern examples of how mathematics (vectors and calculus) are used (specifically for machine learning).
 
