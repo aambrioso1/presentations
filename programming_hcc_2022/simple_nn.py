@@ -38,30 +38,38 @@ def compute_gradients(X, Y, m, b):
 
 def optimize(X, Y, num_iterations=10, learning_rate=0.1):
 	m, b = [0,0] #initialize_parameters()
+	line_list = []
 	
-	for i in range(num_iterations):
+	for i in range(1, num_iterations+1):
 		dm, db = compute_gradients(X, Y, m, b)
 		m = m - learning_rate * dm
 		b = b - learning_rate * db
+		graph_count = 5
+
+		# Pick 5 lines to graph as algorithm learns regression line
+		if i % (num_iterations//graph_count) == 0:
+			line_list.append([m,b])
 		cost = compute_cost(X, Y, m, b)
 		# print(f"{cost=}, {m=},{b=},{dm=},{db=}")
-	return [m, b]
+	return line_list
 
-num = 1000000
+num = 1000
 alpha = 0.0001
-m, b = optimize(train_x, train_y, num, alpha)
+learned_line_list = optimize(train_x, train_y, num, alpha)
 
-print(f"m = {m} and b = {b}")
+print(f"The learned line list is {learned_line_list}")
 
 import matplotlib.pyplot as plt
 plt.scatter(train_x, train_y)
 x_list = []
 y_list = []
-for x in np.arange(0,10,0.1):
-	y = m*x + b
-	x_list.append(x)
-	y_list.append(y)
-plt.plot(x_list,y_list)
+for line in learned_line_list:
+	m, b = line
+	for x in np.arange(0,10,0.1):
+		y = m*x + b
+		x_list.append(x)
+		y_list.append(y)
+	plt.plot(x_list,y_list)
 plt.show()
 
 
