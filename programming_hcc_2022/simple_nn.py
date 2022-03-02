@@ -14,6 +14,9 @@ def initialize_parameters():
 	b = rd.random()
 	return [m, b]
 
+# Note the cost function is function of two variables m and b.
+# The plot will be a surface.   Since we are looking to minimize the cost,
+# 
 def compute_cost(X,Y,m,b):
 	n = len(X)
 	J = 0
